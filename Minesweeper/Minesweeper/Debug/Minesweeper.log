@@ -1,0 +1,6 @@
+﻿  game.cpp
+d:\codes\minesweeper\minesweeper\minesweeper\game.h(16): warning C4309: 'initializing': truncation of constant value
+d:\codes\minesweeper\minesweeper\minesweeper\game.h(18): warning C4309: 'initializing': truncation of constant value
+d:\codes\minesweeper\minesweeper\minesweeper\game.cpp(32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Minesweeper.vcxproj -> D:\Codes\Minesweeper\Minesweeper\Debug\Minesweeper.exe
+  Minesweeper.vcxproj -> D:\Codes\Minesweeper\Minesweeper\Debug\Minesweeper.pdb (Partial PDB)
